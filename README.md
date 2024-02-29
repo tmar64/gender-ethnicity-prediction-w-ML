@@ -104,7 +104,7 @@ plt.show()
 
 ###
 
-## Training model for gender prediction...
+## Building and training model for gender prediction...
 ```ruby
 X = np.array(df['pixels'].tolist())
 
@@ -170,7 +170,7 @@ pretty accurate :D
 
 ###
 
-## Training model for ethnicity prediction...
+## Building and training model for ethnicity prediction...
 ```ruby
 # time to train model for ethnicity prediction...
 y = df['ethnicity']
