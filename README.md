@@ -1,7 +1,8 @@
 # gender-ethnicity-prediction-w-ML
 
 This is my first project using tensorflow and sklearn libraries! 
-I train a model: Convolutional Neural Network (CNN) and then visualize the results!
+I train a Convolutional Neural Network (CNN) to predict gender and ethnicity.
+Data distributions and training history is visualized.
 
 Kaggle Dataset: https://www.kaggle.com/code/shahraizanwar/age-gender-ethnicity-prediction/data
 
